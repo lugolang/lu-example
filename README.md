@@ -11,8 +11,8 @@ server.go
 package main
 
 import (
-	"lu/example/controller"
-	"lu/example/lib"
+	"lu-example/controller"
+	"lu-example/lib"
 
 	"github.com/lugolang/static"
 
@@ -57,6 +57,7 @@ func main() {
 ```
 go get -u github.com/valyala/fasthttp
 go get -u github.com/lugolang/static
+go get -u github.com/vincentLiuxiang/lu
 
 go run ./server.go
 ```
