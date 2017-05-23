@@ -3,7 +3,7 @@ package controller
 import (
 	"encoding/json"
 	"fmt"
-	"lu/example/lib"
+	"lu-example/lib"
 
 	"github.com/valyala/fasthttp"
 )

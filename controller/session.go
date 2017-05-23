@@ -2,7 +2,7 @@ package controller
 
 import "github.com/valyala/fasthttp"
 
-import "lu/example/lib"
+import "lu-example/lib"
 
 type SessionMiddleware struct {
 	cookieKey string

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"lu/example/controller"
+	"lu-example/controller"
 
-	"github.com/vincentLiuxiang/lu/example/lib"
+	"lu-example/lib"
 
 	"github.com/lugolang/static"
 
